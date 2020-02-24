@@ -1,0 +1,44 @@
+.linkproduct{
+    text-decoration: none;
+    border: none;
+    padding: 12px 49px;
+    color: #fff;
+    border-radius: 4px;
+}
+.linkdeco1{
+    background-color: #1ed01e;
+}
+.linkdeco2{
+    background-color: #004eff;
+}
+
+.linkdeco1:hover{
+    background-color: #6bbf37;
+}
+.linkdeco2:hover{
+    background-color: #435ec6;
+}
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+table, td, th {
+    border: 1px solid black;
+    padding: 8px 35px;
+}
+
+.img_prop{height: 20px;}
+.input_deco{border-radius: 1px;
+    border: 1px solid;
+    padding: 8px 13px;}
+
+.btn_deco{padding: 10px 50px;
+    background: blue;
+    border: none;
+    color: #fff;
+    border-radius: 4px;}
+
+.btn_deco:hover{
+    background: #09099b;
+}
